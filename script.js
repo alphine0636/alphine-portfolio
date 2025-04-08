@@ -82,7 +82,7 @@ const recipes = [
     {
         id: 2,
         title: "Korean BBQ Beef Short Ribs",
-        image: "koren bbq.jpg",
+        image: "ribs.jpg",
         category: "main",
         time: "3 hrs marination + 20 mins cook",
         servings: 4,
