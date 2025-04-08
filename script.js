@@ -71,7 +71,7 @@ const recipes = [
     {
         id: 1,
         title: "Pilau",
-        image: "./images/pilau.jpg",
+        image: "pilau.jpg",
         category: "main",
         time: "50 mins",
         servings: 5,
@@ -82,7 +82,7 @@ const recipes = [
     {
         id: 2,
         title: "Korean BBQ Beef Short Ribs",
-        image: "./images/korean-bbq-ribs.jpg",
+        image: "koren bbq.jpg",
         category: "main",
         time: "3 hrs marination + 20 mins cook",
         servings: 4,
